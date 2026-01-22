@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Fix overlapping footer text */
+.project-tagline {
+  display: block;
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 30px;
+}
